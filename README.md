@@ -1,45 +1,33 @@
 # task-6
  1.Create multiple passwords with varying complexity.
  2.Use uppercase, lowercase, numbers, symbols, and length variations.
- <table style="width:100%">
- <tr>
-    <th>Password</th>
-    <th>Characteristics</th>
-    
-  </tr>
-   <tr>
-    <th>apple123</th>
-    <th>lowercase + numbers</th>
-    
-  </tr>
+
   
-
-****	                                        ****
-	                                             
-AppleTree!	                                         mixed case + symbol
-A1b2C3d4	                                         upper + lower + numbers
-P@55w0rD!                                           	complex with substitutions
-!Zx2$Lm&9@Pt	                                     long + mixed char types
-12345678                                               	numbers only
-qwertyuiop	                                     lowercase only, keyboard pattern
-C0mpl3x#Pwd2025                                   	very complex, includes year
-
+  | Password  | Charactristics |
+| ------------- | ------------- |
+| apple123  | lowercase + numbers  |
+| AppleTree!  | mixed case + symbol  |   
+| A1b2C3d4  | upper + lower + numbers  |
+| P@55w0rD!  | complex with substitutions  |
+| !Zx2$Lm&9@Pt  | long + mixed char types  |
+| 12345678  | numbers only  |
+| qwertyuiop  | lowercase only, keyboard pattern  |
+| C0mpl3x#Pwd2025  | very complex, includes year  |
 
 3.Test each password on password strength checker.
  4.Note scores and feedback from the tool.
  **Result**
- <th>
- <tr>
-<td>**Password**                                              	Crack Time	                          **Feedback**</tr></td>
- 
-apple123	    -------------                            Seconds	Too simple,------------                common
-AppleTree!	                                                  Minutes	Better,                         needs more complexity
-A1b2C3d4	                                                        Hours	                               Medium strength
-P@55w0rD!	                                                    Days	Stronger,                        but pattern-based
-!Zx2$Lm&9@Pt                                                   	Centuries	                            Very strong
-12345678                                                        	Instant                              	Extremely weak
-qwertyuiop	                                                      Seconds                              	Predictable pattern
-C0mpl3x#Pwd2025                                              	Trillions of years	                     Excellent </th>
+   | Password  |Crack Time | Feedback|
+| ------------- | ------------- |------------|
+| apple123  | Seconds	Too simple  |common |
+| AppleTree!  | Minutes	Better  |   needs more complexity |
+| A1b2C3d4  | Hours  | Medium strength |but pattern-based|
+| P@55w0rD!  |	 Days  |Stronger, but pattern-based    |
+| !Zx2$Lm&9@Pt  |Centuries  | Very strong|
+| 12345678  | Instant | Extremely weak |
+| qwertyuiop  | Seconds  |Predictable pattern |
+| C0mpl3x#Pwd2025  | Trillions of years  | Excellent |
+                                              		                    
 
 ![test pass1](https://github.com/user-attachments/assets/ce6d5189-1817-4cd4-b7d9-802a9e8a1480)
 
