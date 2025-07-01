@@ -16,8 +16,9 @@ C0mpl3x#Pwd2025                                   	very complex, includes year
 3.Test each password on password strength checker.
  4.Note scores and feedback from the tool.
  **Result**
+ <th>
  <tr>
-**Password**                                              	**Crack Tim**e	                          **Feedback**</tr>
+<td>**Password**                                              	Crack Time	                          **Feedback**</tr></td>
  
 apple123	    -------------                            Seconds	Too simple,------------                common
 AppleTree!	                                                  Minutes	Better,                         needs more complexity
@@ -26,7 +27,7 @@ P@55w0rD!	                                                    Days	Stronger,    
 !Zx2$Lm&9@Pt                                                   	Centuries	                            Very strong
 12345678                                                        	Instant                              	Extremely weak
 qwertyuiop	                                                      Seconds                              	Predictable pattern
-C0mpl3x#Pwd2025                                              	Trillions of years	                     Excellent
+C0mpl3x#Pwd2025                                              	Trillions of years	                     Excellent </th>
 
 ![test pass1](https://github.com/user-attachments/assets/ce6d5189-1817-4cd4-b7d9-802a9e8a1480)
 
