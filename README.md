@@ -16,7 +16,8 @@ C0mpl3x#Pwd2025                                   	very complex, includes year
 3.Test each password on password strength checker.
  4.Note scores and feedback from the tool.
  **Result**
-**Password**                                              	**Crack Tim**e	                          **Feedback**
+ <tr>
+**Password**                                              	**Crack Tim**e	                          **Feedback**</tr>
  
 apple123	    -------------                            Seconds	Too simple,------------                common
 AppleTree!	                                                  Minutes	Better,                         needs more complexity
