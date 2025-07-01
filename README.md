@@ -18,7 +18,7 @@ C0mpl3x#Pwd2025                                   	very complex, includes year
  **Result**
 **Password**                                              	**Crack Tim**e	                          **Feedback**
  
-apple123	                                                  Seconds	Too simple,                           common
+apple123	    -------------                            Seconds	Too simple,------------                common
 AppleTree!	                                                  Minutes	Better,                         needs more complexity
 A1b2C3d4	                                                        Hours	                               Medium strength
 P@55w0rD!	                                                    Days	Stronger,                        but pattern-based
