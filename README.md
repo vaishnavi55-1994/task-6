@@ -1,9 +1,21 @@
 # task-6
  1.Create multiple passwords with varying complexity.
  2.Use uppercase, lowercase, numbers, symbols, and length variations.
+ <table style="width:100%">
+ <tr>
+    <th>Password</th>
+    <th>Characteristics</th>
+    
+  </tr>
+   <tr>
+    <th>apple123</th>
+    <th>lowercase + numbers</th>
+    
+  </tr>
+  
 
-**Password**	                                        **Characteristics**
-apple123	                                             lowercase + numbers
+****	                                        ****
+	                                             
 AppleTree!	                                         mixed case + symbol
 A1b2C3d4	                                         upper + lower + numbers
 P@55w0rD!                                           	complex with substitutions
